@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+title:            Mingyang Cai's
+description:      "Site"
+disqus_shortname: nuoyazhou2
+share:            true
+dropcap:          true
